@@ -1,6 +1,11 @@
 # YAPSO
 =========================================================================
+
         YAPSO: Yet Another Particle Swarm Optimization
+
+<p align="center">
+  <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/0b3313b4-4bb3-484a-be91-f79c77071fec" />
+</p>
 
   Author: Maurizio Clemente
           Center for Automotive Research (CAR)
@@ -31,7 +36,7 @@
     behavior near the optimum is well approximated by a quadratic model.
 
 <p align="center">
-  <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/0b3313b4-4bb3-484a-be91-f79c77071fec" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/dc879bf9-8149-41ef-bf81-c97d4be639c9" />
 </p>
 
     Inputs:
