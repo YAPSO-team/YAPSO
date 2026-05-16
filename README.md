@@ -30,7 +30,7 @@
     (Np ≥ NQ), the approach remains effective even for higher-order functions, as the local
     behavior near the optimum is well approximated by a quadratic model.
 
-![alt text](https://github.com/YAPSO-team/YAPSO/blob/main/Example%20animations/pso_animation_20260516_151444?raw=true)
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/0b3313b4-4bb3-484a-be91-f79c77071fec" />
 
     Inputs:
 
