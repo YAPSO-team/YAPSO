@@ -30,6 +30,8 @@
     (Np ≥ NQ), the approach remains effective even for higher-order functions, as the local
     behavior near the optimum is well approximated by a quadratic model.
 
+![alt text](https://github.com/YAPSO-team/YAPSO/blob/main/Example_animations/pso_animation_20260516_151444?raw=true)
+
     Inputs:
 
     obj:        N-dimensional objective function to be optimized (callable)
